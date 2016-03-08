@@ -1,0 +1,18 @@
+
+
+2015-08-13 13:03:51,978ERROR[log.Log]-error
+ java.lang.ArithmeticException: / by zero
+	at log.Log.main(Log.java:39)
+
+
+2015-08-13 13:04:16,206ERROR[log.Log]-error
+ java.lang.ArithmeticException: / by zero
+	at log.Log.main(Log.java:39)
+
+
+2015-08-13 13:07:12,010ERROR[log.Log]-error
+ java.lang.ArithmeticException: / by zero
+	at log.Log.main(Log.java:39)
+2015-08-13 13:12:29,806ERROR[log.Log]-error
+ java.lang.ArithmeticException: / by zero
+	at log.Log.main(Log.java:39)
